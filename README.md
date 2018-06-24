@@ -32,5 +32,9 @@ route('/somepath/:name/otherpath/:language/:age/', function($args) {
 
 Error handling: Create a `error.html` template in `templates/` dir. Use `{{code}}` to display the error code
 
+Throw an error by calling the `error()` function that takes an error code
+
+Redirect to other page by calling the `redirect()` function which takes a new path 
+
 ## Downloads
 [router-master.zip](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/morswin22/router)
