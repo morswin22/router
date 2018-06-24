@@ -1,5 +1,5 @@
 # router
-A small router library for php 
+A small router library for php - [download](#downloads)
 
 ## How to use
 Create a main php file called `app.php` (if you want to use other name, go to `.htaccess` and replace `app.php` with your main script dir). Your first lines should look like:
