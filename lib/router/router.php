@@ -40,6 +40,7 @@ function error(int $code, $render = true) {
             unlink(__DIR__.'/../../templates/error.html');
         }
     }
+    exit();
 }
 
 function getRegex($pattern){
