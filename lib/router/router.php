@@ -1,5 +1,15 @@
 <?php
-
+#
+#
+# Router
+# https://github.com/morswin22/router/
+#
+# (c) 2018 Patryk Janiak
+#
+# For the full license information, view the LICENSE file that was distributed
+# with this source code.
+#
+#
 require_once './lib/Twig/autoloader.php';
 
 Twig_AutoLoader::register();
