@@ -1,3 +1,5 @@
+# This repo is outdated.
+
 # router
 A small router library for php - [download](#downloads)
 
